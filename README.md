@@ -1,0 +1,1 @@
+ This repository contains my Java practice programs developed as part of coursework. The files demonstrate fundamental programming concepts, object-oriented programming and basic data structures in Java.
